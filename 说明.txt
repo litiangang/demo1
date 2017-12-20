@@ -1,0 +1,4 @@
+1.执行sql脚本创建数据库。
+2.ribbon-client这是eureka服务启动。
+3.service-hi集成TCC的提供者，相当于一个client端。
+4.service-ribbon调用者，通过eureka调用service-hi。

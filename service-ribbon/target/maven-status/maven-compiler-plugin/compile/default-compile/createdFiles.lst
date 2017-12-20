@@ -1,0 +1,3 @@
+com\isscollege\ribbon\service\HelloService.class
+com\isscollege\ribbon\ServiceRibbonApplication.class
+com\isscollege\ribbon\controller\HelloController.class
